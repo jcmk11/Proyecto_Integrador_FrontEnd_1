@@ -1,0 +1,38 @@
+.cabecera{
+    background-color: black;
+    color: white;
+    height: 20px;
+}
+
+.navegacion_1, .pie{
+    background-color: darkorange;
+    color: white;
+    height: 62px;
+}
+
+.logo {
+    position: absolute;
+width: 166.38px;
+height: 23px;
+left: 40px;
+top: 39px;
+}
+
+ul#lista {
+    position: absolute;
+    display: inline;
+width: 343px;
+height: 15px;
+left: 641px;
+top: 43px;
+}
+
+.navegacion_2 {
+    background-color: brown;
+    color: white;
+}
+
+.derechos {
+    background-color: black;
+    color: white;
+}
